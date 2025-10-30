@@ -26,7 +26,6 @@ Most of what I create is written in what I like to call **vibe coding** — usin
 ### 🌍 Current Projects
 - [**ChatMystery**](https://chatmystery.com) – AI detective stories told entirely through conversation.  
 - **eLKA** – An autonomous lore-engine for procedural universes.  
-- **LiveDiff** – A negotiation and training platform integrating LLMs into real-world business contexts.  
 
 ---
 
