@@ -10,7 +10,7 @@ I build things with AI. I don't code in the traditional sense — I design syste
 
 **[Brand Kvíz](https://github.com/procmadatelzobak/brand-kviz)** — Single-file web app for running pub quiz nights. Scoring, joker mechanics, tiebreakers, and a fullscreen presentation mode that reveals standings one team at a time. Built for a real event, used at real events.
 
-**[ChatMystery](https://chatmystery.com)** — AI detective game where you interrogate suspects via LLM. I designed the architecture and wrote the stories, a friend did the programming and then quit. Sold 0 copies. Today I could build the whole thing myself.
+**[ChatMystery](https://chatmystery.com)** — AI detective game where you interrogate suspects via LLM. I designed the architecture and wrote the stories, a friend did the programming. Sold 0 copies.
 
 **[Ó Bože](https://github.com/procmadatelzobak/oboze)** — Game prototype with an AI pipeline: player advises a character → narrator LLM generates a scenario → renderer LLM creates visuals → engine displays it. An experiment in chaining models into game mechanics.
 
