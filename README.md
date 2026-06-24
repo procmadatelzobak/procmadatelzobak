@@ -18,7 +18,7 @@ I treat AI agents as a team, not a tool. I write the architecture, the guardrail
 
 ### Things worth showing
 
-**sinuhetcloud** — A private cloud platform: a mesh of servers across several sites, stitched together with WireGuard and run largely by AI agents. They process GitHub issues, write and deploy code, manage the network, and maintain the documentation. My playground for *how far can you push autonomous ops.* (This README lives there — and was written there.)
+**[sinuhetcloud](https://sinuhetcloud.net)** — A private cloud platform: a mesh of servers across several sites, stitched together with WireGuard and run largely by AI agents. They process GitHub issues, write and deploy code, manage the network, and maintain the documentation. My playground for *how far can you push autonomous ops.* (This README lives there — and was written there.)
 
 **[Maloves](https://maloves.pszczolka.cz)** — A little town of generative AI agents. They chat, trade, hold down jobs, pass laws, and elect a mayor and a judge. Self-hosted on a local LLM — an AI-Town fork that grew its own economy and legal system.
 
